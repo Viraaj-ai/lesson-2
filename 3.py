@@ -1,0 +1,6 @@
+x=input("when is your mom's birthday ?")
+y=input("when is your birthday ?")
+z=input("when is your dad's birthday ?")
+print("your mom's birthday is",x)
+print("your birthday is" ,y)
+print("your dad's birthday is",z)
